@@ -34,7 +34,7 @@ The workflow for this metagenomic analysis comprised several key steps, from dat
 ## 3. Results & Discussion
 
 ### 3.1 Taxonomic Composition and Diversity
-![Figure 1: Taxonomic diversity of gut microbiota]([output/Alpha diversity plot.jpeg](https://github.com/ChijiokeUhegwu/FMT_Metagenomics_Analysis/blob/main/output/Alpha%20diversity%20plot.jpeg))
+![Figure 1: Taxonomic diversity of gut microbiota]([output/Alpha diversity plot.jpeg](https://github.com/ChijiokeUhegwu/FMT_Metagenomics_Analysis/blob/main/output/Alpha%20diversity%20plot.jpeg?raw=true)
 
 **Figure 1** (Taxonomic diversity of absolute abundance, stacked bar chart) shows that the phylum Bacteroidetes dominated across all 12 samples (4 donors, 4 responders, 4 non-responders). This prevalence is consistent with previous studies in which Bacteroidetes levels are often elevated in obesity-associated gut microbiomes. ([PMC][1]) The fact that donors, responders and non-responders all show high Bacteroidetes suggests that phylum-level dominance may not differentiate FMT outcome groups, and instead more subtle taxonomic or functional differences may underlie differences in response.
 
