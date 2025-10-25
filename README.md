@@ -53,7 +53,7 @@ The workflow for this metagenomic analysis comprised several key steps, from dat
 
 **Figure 4** (COG functional categories) shows that the “Unknown function” category had the highest bars across all three groups, followed by “Carbohydrate metabolism” and other metabolism-related categories. The large unknown fraction is typical in metagenomic studies of the gut microbiome, reflecting the large reservoir of functions yet to be characterised [8]. The fact that carbohydrate metabolism is the second-highest is relevant to obesity: gut microbiota carbohydrate-utilisation functions can influence host energy harvest and fat accumulation [9]. Comparison across groups reveals that responders had slightly higher counts in “Carbohydrate metabolism” than non-responders, which may reflect enhanced microbial capacity for carbohydrate transformation in successful FMT outcomes.
 
-![Figure 5: Diversity of Bacteroidetes at genus level](plotbacteriod.jpg)
+![Figure 5: Diversity of Bacteroidetes at genus level](plot_bacteriod.jpg)
 
 **Figure 5** (Diversity of *Bacteroidetes* at genus level) shows that within *Bacteroidetes*, the genus *Prevotella* was more abundant in non-responders (and in two donor samples and one responder), compared to other genera such as *Phocaeicola* and *Bacteroides*. *Prevotella*-dominance has been linked to high-fibre diets but also to inflammation and metabolic dysregulation in some reports; in FMT for obesity, perhaps a *Prevotella*-rich baseline microbiome is less amenable to beneficial functional restructuring. The higher abundance of *Phocaeicola* and *Bacteroides* in other samples may indicate donor microbiomes more conducive to engraftment or metabolic improvement. This genus-level variation suggests taxonomic nuance beyond phylum-level signals is important.
 
@@ -63,15 +63,15 @@ The workflow for this metagenomic analysis comprised several key steps, from dat
 
 **Figure 6** (Taxonomic diversity of relative abundance (%) plot) reaffirmed that Bacteroidetes comprised a large proportion of the community across groups, but responders showed a slightly lower relative % of Bacteroidetes compared to non-responders and donors, potentially reflecting a more balanced microbiome post-FMT in responders. Prior studies in obesity report that high *Bacteroidetes*: *Firmicutes* ratios are not uniformly prognostic of weight loss, underscoring the need to examine functional capacity [10].
 
-![Figure 7: Top 10 functional annotations](output/Top%2010%20functional%20annotations.jpg)
+![Figure 7: Top 10 functional annotations](output/top%20%10%20functional%20annotations.jpg)
 
 **Figure 7** (Top 10 functional annotations) identified that the highest scoring annotation was “Unknown” as expected; the next highest were “Psort location cytoplasmic (score 8.96)”, then another “Psort location cytoplasmic (score …)”. While these particular annotations reflect subcellular localisation predictions, their prominence suggests that many predicted proteins are cytoplasmic and possibly metabolic in nature. The presence of metabolic enzyme annotations in the top hits indicates that the gene catalogue assembled is rich in functional potential, which is important when linking microbial functions to host metabolic outcomes.
 
-![Figure 8: Top 10 GO terms](output/top%2010%20GO%20terms.jpeg)
+![Figure 8: Top 10 GO terms](output/top%20%10%20GO%20terms.jpeg)
 
 **Figure 8** (Top 10 GO terms) showed that GO:0008150 (biological_process) was the most abundant term, followed by GO:0003674 (molecular_function) and GO:0005575 (cellular_component). This distribution is typical in annotation outputs — general categories dominate — but the presence of specific GO terms related to metabolism in the subsequent ranks indicates that key microbial functions (e.g., carbohydrate binding, lipid metabolic process) are present and differ between groups. That suggests that the functional annotation pipeline in this study captured the relevant metabolic repertoire in gut microbiota linked to obesity and FMT.
 
-![Figure 9: Top 10 KEGG pathways by group](output/top%2010%20KEGG%20pathways%20by%20group.jpeg)
+![Figure 9: Top 10 KEGG pathways by group](output/top%20%10%20KEGG%20pathways%20by%20group.jpeg)
 
 **Figure 9** (Top 10 KEGG pathways by group) showed that map01100 / ko01100 (metabolic pathways) were highest, followed by map01110 (biosynthesis of secondary metabolites) and others. The dominance of core metabolic pathways is expected in gut microbiome datasets. Importantly, when stratifying by group, donors and responders had slightly higher counts in lipid-biosynthesis and carbohydrate-metabolism pathways compared to non-responders, suggesting that successful FMT may transfer or enrich microbial functions geared toward metabolic regulation and weight-loss support. Research has shown that gut microbiota functions (rather than taxonomy alone) can influence host lipid and bile acid metabolism, which in turn affects adiposity [9]. 
 
