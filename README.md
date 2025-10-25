@@ -40,7 +40,7 @@ The workflow for this metagenomic analysis comprised several key steps, from dat
 
 **Figure 1** (Taxonomic diversity of absolute abundance) shows that the phylum Bacteroidetes dominated across all 12 samples (4 donors, 4 responders, 4 non-responders). This prevalence is consistent with previous studies in which Bacteroidetes levels are often elevated in obesity-associated gut microbiomes [4]. The fact that donors, responders, and non-responders all show high Bacteroidetes suggests that phylum-level dominance may not differentiate FMT outcome groups, and instead, more subtle taxonomic or functional differences may underlie differences in response.
 
-![Figure 2: Alpha diversity for the twelve metagenome samples](output/Alphadiversityplot.jpeg)
+![Figure 2: Alpha diversity for the twelve metagenome samples](output/Alpha%20diversity%20plot.jpeg)
 
 **Figure 2** (Alpha diversity: Observed, Chao1, Shannon indices) reveals that donor samples tended to show higher richness and diversity metrics compared to non-responders, with responders occupying an intermediate position. Although our sample size is small (n = 4 per group), this trend aligns with the concept that higher donor gut microbial diversity may enhance engraftment potential and therapeutic effect in FMT contexts [5]. Conversely, previous meta-analyses have reported inconsistent effects of FMT on α-diversity in obese recipients [6]. Thus, the data used in this study support but do not definitively confirm that diversity may be linked to response status.
 
