@@ -67,11 +67,11 @@ The workflow for this metagenomic analysis comprised several key steps, from dat
 
 **Figure 7** (Top 10 functional annotations) identified that the highest scoring annotation was “Unknown” as expected; the next highest were “Psort location cytoplasmic (score 8.96)”, then another “Psort location cytoplasmic (score …)”. While these particular annotations reflect subcellular localisation predictions, their prominence suggests that many predicted proteins are cytoplasmic and possibly metabolic in nature. The presence of metabolic enzyme annotations in the top hits indicates that the gene catalogue assembled is rich in functional potential, which is important when linking microbial functions to host metabolic outcomes.
 
-![Figure 8: Top 10 GO terms](output/top_10_GO_terms.jpeg)
+![Figure 8: Top 10 GO terms](output/top_10_GO_terms.jpg)
 
 **Figure 8** (Top 10 GO terms) showed that GO:0008150 (biological_process) was the most abundant term, followed by GO:0003674 (molecular_function) and GO:0005575 (cellular_component). This distribution is typical in annotation outputs — general categories dominate — but the presence of specific GO terms related to metabolism in the subsequent ranks indicates that key microbial functions (e.g., carbohydrate binding, lipid metabolic process) are present and differ between groups. That suggests that the functional annotation pipeline in this study captured the relevant metabolic repertoire in gut microbiota linked to obesity and FMT.
 
-![Figure 9: Top 10 KEGG pathways by group](output/top_10_KEGG_pathways_by_group.jpeg)
+![Figure 9: Top 10 KEGG pathways by group](output/top_10_KEGG_pathways_by_group.jpg)
 
 **Figure 9** (Top 10 KEGG pathways by group) showed that map01100 / ko01100 (metabolic pathways) were highest, followed by map01110 (biosynthesis of secondary metabolites) and others. The dominance of core metabolic pathways is expected in gut microbiome datasets. Importantly, when stratifying by group, donors and responders had slightly higher counts in lipid-biosynthesis and carbohydrate-metabolism pathways compared to non-responders, suggesting that successful FMT may transfer or enrich microbial functions geared toward metabolic regulation and weight-loss support. Research has shown that gut microbiota functions (rather than taxonomy alone) can influence host lipid and bile acid metabolism, which in turn affects adiposity [9]. 
 
